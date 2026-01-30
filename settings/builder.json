@@ -15,12 +15,16 @@
   "mainCompressionType": "default",
   "mainIsRemote": false,
   "optimizeHotUpdate": false,
-  "md5Cache": true,
+  "md5Cache": false,
   "nativeMd5Cache": true,
   "encryptJs": true,
   "xxteaKey": "2a925b2a-58c9-49",
   "zipCompressJs": true,
   "fb-instant-games": {},
+  "web-mobile": {
+    "REMOTE_SERVER_ROOT": "",
+    "embedWebDebugger": false
+  },
   "android": {
     "packageName": "org.cocos2d.demo",
     "REMOTE_SERVER_ROOT": ""
