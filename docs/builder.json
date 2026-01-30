@@ -1,0 +1,64 @@
+{
+  "title": "casual-blaster",
+  "packageName": "org.cocos2d.demo",
+  "startScene": "8c5c2129-ba34-416a-99ae-323d47f888da",
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeRight": true,
+    "landscapeLeft": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "webOrientation": "portrait",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mainCompressionType": "default",
+  "mainIsRemote": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": false,
+  "nativeMd5Cache": true,
+  "encryptJs": true,
+  "xxteaKey": "2a925b2a-58c9-49",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "web-mobile": {
+    "REMOTE_SERVER_ROOT": "",
+    "embedWebDebugger": false
+  },
+  "android": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": ""
+  },
+  "ios": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true
+  },
+  "mac": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "android-instant": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "pathPattern": "",
+    "scheme": "https",
+    "host": "",
+    "skipRecord": false,
+    "recordPath": ""
+  },
+  "harmonyos-next": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "jsEngine": "JSVM"
+  },
+  "appBundle": false,
+  "agreements": {}
+}
